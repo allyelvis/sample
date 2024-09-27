@@ -141,5 +141,18 @@
             "value_": "com.aenzbi.sample"
         }
     },
+    "firebase": {
+        "_id_": 91,
+        "_type": "Firebase.Settings",
+        "authentication": {
+            "_id_": 93,
+            "_type": "Firebase.Settings.Authentication",
+            "google": {
+                "_id_": 95,
+                "_type": "Boolean",
+                "value_": false
+            }
+        }
+    },
     "_abVer": 229
 }
